@@ -1,2 +1,3 @@
 this is new file 2. 
 adding line 2
+adding line 3
